@@ -1,0 +1,2488 @@
+{
+"_source": "CDC WONDER Natality 2016-2024 expanded (D149); births 2022-2024, live birth order 1, singleton; grouped by state of residence (FIPS). Queried 2026-10-27 via src: browser session; suppressed cells counted as 0. Race: H=Hispanic any race; W/B/A=non-Hispanic single-race White/Black/Asian; O=other non-Hispanic (AIAN, NHOPI, multiracial); unknown dropped.",
+"payer": {
+"10": {
+"Medicaid": 4381,
+"Private Insurance": 7373,
+"Self Pay": 153,
+"Other": 466,
+"Unknown or Not Stated": 62
+},
+"11": {
+"Medicaid": 3334,
+"Private Insurance": 6579,
+"Self Pay": 131,
+"Other": 352,
+"Unknown or Not Stated": 38
+},
+"12": {
+"Medicaid": 94879,
+"Private Insurance": 154553,
+"Self Pay": 14770,
+"Other": 7646,
+"Unknown or Not Stated": 1337
+},
+"13": {
+"Medicaid": 61024,
+"Private Insurance": 73626,
+"Self Pay": 10003,
+"Other": 8631,
+"Unknown or Not Stated": 129
+},
+"15": {
+"Medicaid": 4532,
+"Private Insurance": 8152,
+"Self Pay": 647,
+"Other": 4142,
+"Unknown or Not Stated": 59
+},
+"16": {
+"Medicaid": 6380,
+"Private Insurance": 15552,
+"Self Pay": 1496,
+"Other": 1070,
+"Unknown or Not Stated": 107
+},
+"17": {
+"Medicaid": 47048,
+"Private Insurance": 94854,
+"Self Pay": 1611,
+"Other": 1146,
+"Unknown or Not Stated": 218
+},
+"18": {
+"Medicaid": 31212,
+"Private Insurance": 49796,
+"Self Pay": 2971,
+"Other": 2549,
+"Unknown or Not Stated": 433
+},
+"19": {
+"Medicaid": 12359,
+"Private Insurance": 24572,
+"Self Pay": 1207,
+"Other": 468
+},
+"20": {
+"Medicaid": 10027,
+"Private Insurance": 22277,
+"Self Pay": 1921,
+"Other": 2447,
+"Unknown or Not Stated": 428
+},
+"21": {
+"Medicaid": 22261,
+"Private Insurance": 29769,
+"Self Pay": 2047,
+"Other": 3844,
+"Unknown or Not Stated": 718
+},
+"22": {
+"Medicaid": 34655,
+"Private Insurance": 22520,
+"Self Pay": 695,
+"Other": 2212,
+"Unknown or Not Stated": 20
+},
+"23": {
+"Medicaid": 4411,
+"Private Insurance": 9221,
+"Self Pay": 446,
+"Other": 413,
+"Unknown or Not Stated": 54
+},
+"24": {
+"Medicaid": 26001,
+"Private Insurance": 45797,
+"Self Pay": 1521,
+"Other": 2769,
+"Unknown or Not Stated": 185
+},
+"25": {
+"Medicaid": 22209,
+"Private Insurance": 61673,
+"Self Pay": 745,
+"Other": 2106,
+"Unknown or Not Stated": 79
+},
+"26": {
+"Medicaid": 35532,
+"Private Insurance": 73989,
+"Self Pay": 2197,
+"Other": 1414,
+"Unknown or Not Stated": 841
+},
+"27": {
+"Medicaid": 17569,
+"Private Insurance": 46955,
+"Self Pay": 1337,
+"Other": 1021,
+"Unknown or Not Stated": 165
+},
+"28": {
+"Medicaid": 20319,
+"Private Insurance": 16333,
+"Self Pay": 1268,
+"Other": 441,
+"Unknown or Not Stated": 34
+},
+"29": {
+"Medicaid": 25890,
+"Private Insurance": 45729,
+"Self Pay": 2116,
+"Other": 1104,
+"Unknown or Not Stated": 922
+},
+"30": {
+"Medicaid": 3536,
+"Private Insurance": 8046,
+"Self Pay": 907,
+"Other": 721
+},
+"31": {
+"Medicaid": 8000,
+"Private Insurance": 15728,
+"Self Pay": 683,
+"Other": 761,
+"Unknown or Not Stated": 141
+},
+"32": {
+"Medicaid": 12652,
+"Private Insurance": 20354,
+"Self Pay": 996,
+"Other": 2464,
+"Unknown or Not Stated": 42
+},
+"33": {
+"Medicaid": 2344,
+"Private Insurance": 12047,
+"Self Pay": 317,
+"Other": 436,
+"Unknown or Not Stated": 47
+},
+"34": {
+"Medicaid": 29004,
+"Private Insurance": 84672,
+"Self Pay": 6140,
+"Other": 1226,
+"Unknown or Not Stated": 538
+},
+"35": {
+"Medicaid": 11959,
+"Private Insurance": 8547,
+"Self Pay": 1681,
+"Other": 1887,
+"Unknown or Not Stated": 152
+},
+"36": {
+"Medicaid": 97270,
+"Private Insurance": 136543,
+"Self Pay": 1990,
+"Other": 7283,
+"Unknown or Not Stated": 586
+},
+"37": {
+"Medicaid": 45044,
+"Private Insurance": 82097,
+"Self Pay": 9085,
+"Other": 7255,
+"Unknown or Not Stated": 252
+},
+"38": {
+"Medicaid": 1864,
+"Private Insurance": 6680,
+"Self Pay": 233,
+"Other": 1211,
+"Unknown or Not Stated": 147
+},
+"39": {
+"Medicaid": 44458,
+"Private Insurance": 84942,
+"Self Pay": 6852,
+"Other": 3536,
+"Unknown or Not Stated": 619
+},
+"40": {
+"Medicaid": 23638,
+"Private Insurance": 25050,
+"Self Pay": 1358,
+"Other": 2362,
+"Unknown or Not Stated": 211
+},
+"41": {
+"Medicaid": 17276,
+"Private Insurance": 28235,
+"Self Pay": 738,
+"Other": 494,
+"Unknown or Not Stated": 267
+},
+"42": {
+"Medicaid": 40938,
+"Private Insurance": 94176,
+"Self Pay": 5489,
+"Other": 1941,
+"Unknown or Not Stated": 4197
+},
+"44": {
+"Medicaid": 3960,
+"Private Insurance": 8211,
+"Self Pay": 42,
+"Other": 233,
+"Unknown or Not Stated": 14
+},
+"45": {
+"Medicaid": 26747,
+"Private Insurance": 34302,
+"Self Pay": 2509,
+"Other": 4951,
+"Unknown or Not Stated": 40
+},
+"46": {
+"Medicaid": 2626,
+"Private Insurance": 7943,
+"Self Pay": 555,
+"Other": 724,
+"Unknown or Not Stated": 25
+},
+"47": {
+"Medicaid": 38414,
+"Private Insurance": 54327,
+"Self Pay": 2216,
+"Other": 2874,
+"Unknown or Not Stated": 541
+},
+"48": {
+"Medicaid": 186394,
+"Private Insurance": 223857,
+"Self Pay": 25696,
+"Other": 2243,
+"Unknown or Not Stated": 11424
+},
+"49": {
+"Medicaid": 7097,
+"Private Insurance": 35855,
+"Self Pay": 2996,
+"Other": 1266,
+"Unknown or Not Stated": 2078
+},
+"50": {
+"Medicaid": 1833,
+"Private Insurance": 4303,
+"Self Pay": 126,
+"Other": 190
+},
+"51": {
+"Medicaid": 31569,
+"Private Insurance": 66478,
+"Self Pay": 2515,
+"Other": 9541,
+"Unknown or Not Stated": 193
+},
+"53": {
+"Medicaid": 25632,
+"Private Insurance": 61785,
+"Self Pay": 1007,
+"Other": 5599,
+"Unknown or Not Stated": 1948
+},
+"54": {
+"Medicaid": 7883,
+"Private Insurance": 10857,
+"Self Pay": 380,
+"Other": 433,
+"Unknown or Not Stated": 127
+},
+"55": {
+"Medicaid": 18130,
+"Private Insurance": 44642,
+"Self Pay": 1425,
+"Other": 912,
+"Unknown or Not Stated": 502
+},
+"56": {
+"Medicaid": 1740,
+"Private Insurance": 4261,
+"Self Pay": 386,
+"Other": 320,
+"Unknown or Not Stated": 59
+},
+"01": {
+"Medicaid": 24855,
+"Private Insurance": 37717,
+"Self Pay": 1310,
+"Other": 2190,
+"Unknown or Not Stated": 36
+},
+"02": {
+"Medicaid": 2602,
+"Private Insurance": 3838,
+"Self Pay": 303,
+"Other": 2682,
+"Unknown or Not Stated": 133
+},
+"04": {
+"Medicaid": 34013,
+"Private Insurance": 46076,
+"Self Pay": 4430,
+"Other": 4325,
+"Unknown or Not Stated": 98
+},
+"05": {
+"Medicaid": 13853,
+"Private Insurance": 23347,
+"Self Pay": 1753,
+"Other": 373,
+"Unknown or Not Stated": 322
+},
+"06": {
+"Medicaid": 158393,
+"Private Insurance": 292550,
+"Self Pay": 12165,
+"Other": 20974,
+"Unknown or Not Stated": 2341
+},
+"08": {
+"Medicaid": 22258,
+"Private Insurance": 49718,
+"Self Pay": 2393,
+"Other": 4394,
+"Unknown or Not Stated": 216
+},
+"09": {
+"Medicaid": 13709,
+"Private Insurance": 27179,
+"Self Pay": 539,
+"Other": 600,
+"Unknown or Not Stated": 18
+}
+},
+"race": {
+"10": {
+"H": 2275,
+"O": 443,
+"A": 842,
+"B": 2842,
+"W": 5976
+},
+"11": {
+"H": 1661,
+"O": 260,
+"A": 676,
+"B": 3528,
+"W": 4255
+},
+"12": {
+"H": 97810,
+"O": 4522,
+"A": 9374,
+"B": 47231,
+"W": 113873
+},
+"13": {
+"H": 27186,
+"O": 4000,
+"A": 8185,
+"B": 45948,
+"W": 67449
+},
+"15": {
+"H": 3126,
+"O": 5476,
+"A": 4495,
+"B": 407,
+"W": 3941
+},
+"16": {
+"H": 4444,
+"O": 817,
+"A": 524,
+"B": 236,
+"W": 18473
+},
+"17": {
+"H": 33146,
+"O": 2783,
+"A": 11333,
+"B": 19220,
+"W": 77463
+},
+"18": {
+"H": 11285,
+"O": 2286,
+"A": 2939,
+"B": 9677,
+"W": 60650
+},
+"19": {
+"H": 4485,
+"O": 1237,
+"A": 1204,
+"B": 2124,
+"W": 29558
+},
+"20": {
+"H": 7007,
+"O": 1281,
+"A": 1287,
+"B": 2121,
+"W": 25297
+},
+"21": {
+"H": 5482,
+"O": 1529,
+"A": 1357,
+"B": 4707,
+"W": 45337
+},
+"22": {
+"H": 5887,
+"O": 1362,
+"A": 1333,
+"B": 19803,
+"W": 31684
+},
+"23": {
+"H": 419,
+"O": 336,
+"A": 254,
+"B": 583,
+"W": 12809
+},
+"24": {
+"H": 14713,
+"O": 2507,
+"A": 5973,
+"B": 21019,
+"W": 31828
+},
+"25": {
+"H": 18388,
+"O": 2065,
+"A": 8267,
+"B": 7851,
+"W": 48618
+},
+"26": {
+"H": 8608,
+"O": 3423,
+"A": 5733,
+"B": 16366,
+"W": 79207
+},
+"27": {
+"H": 7024,
+"O": 2788,
+"A": 4710,
+"B": 5673,
+"W": 46736
+},
+"28": {
+"H": 2165,
+"O": 701,
+"A": 538,
+"B": 14494,
+"W": 20483
+},
+"29": {
+"H": 6401,
+"O": 3007,
+"A": 2246,
+"B": 8473,
+"W": 55209
+},
+"30": {
+"H": 863,
+"O": 1297,
+"A": 149,
+"B": 63,
+"W": 10791
+},
+"31": {
+"H": 4977,
+"O": 1087,
+"A": 917,
+"B": 1249,
+"W": 17068
+},
+"32": {
+"H": 14234,
+"O": 2196,
+"A": 3391,
+"B": 3966,
+"W": 12534
+},
+"33": {
+"H": 1001,
+"O": 200,
+"A": 622,
+"B": 281,
+"W": 12978
+},
+"34": {
+"H": 34548,
+"O": 1678,
+"A": 15049,
+"B": 13315,
+"W": 55579
+},
+"35": {
+"H": 14129,
+"O": 2542,
+"A": 585,
+"B": 410,
+"W": 6490
+},
+"36": {
+"H": 58663,
+"O": 4508,
+"A": 27769,
+"B": 30135,
+"W": 121563
+},
+"37": {
+"H": 25293,
+"O": 5875,
+"A": 6748,
+"B": 27085,
+"W": 78635
+},
+"38": {
+"H": 854,
+"O": 930,
+"A": 283,
+"B": 440,
+"W": 7456
+},
+"39": {
+"H": 10755,
+"O": 4811,
+"A": 4890,
+"B": 19240,
+"W": 100532
+},
+"40": {
+"H": 8904,
+"O": 9834,
+"A": 1503,
+"B": 3428,
+"W": 28881
+},
+"41": {
+"H": 9878,
+"O": 3163,
+"A": 3033,
+"B": 1038,
+"W": 28424
+},
+"42": {
+"H": 20282,
+"O": 3350,
+"A": 7968,
+"B": 15795,
+"W": 97756
+},
+"44": {
+"H": 3316,
+"O": 378,
+"A": 568,
+"B": 815,
+"W": 7321
+},
+"45": {
+"H": 8764,
+"O": 2291,
+"A": 1556,
+"B": 15944,
+"W": 39870
+},
+"46": {
+"H": 929,
+"O": 1604,
+"A": 235,
+"B": 337,
+"W": 8744
+},
+"47": {
+"H": 13217,
+"O": 2371,
+"A": 2673,
+"B": 14790,
+"W": 65157
+},
+"48": {
+"H": 211066,
+"O": 8363,
+"A": 31091,
+"B": 51351,
+"W": 146154
+},
+"49": {
+"H": 10396,
+"O": 2208,
+"A": 1596,
+"B": 608,
+"W": 34120
+},
+"50": {
+"H": 205,
+"O": 151,
+"A": 186,
+"B": 116,
+"W": 5758
+},
+"51": {
+"H": 17220,
+"O": 3002,
+"A": 9489,
+"B": 19409,
+"W": 60489
+},
+"53": {
+"H": 18338,
+"O": 6438,
+"A": 13683,
+"B": 3451,
+"W": 50776
+},
+"54": {
+"H": 575,
+"A": 245,
+"B": 582,
+"W": 17698,
+"O": 507
+},
+"55": {
+"H": 8381,
+"O": 2034,
+"A": 2591,
+"B": 5048,
+"W": 47016
+},
+"56": {
+"H": 982,
+"O": 313,
+"A": 90,
+"B": 51,
+"W": 5124
+},
+"01": {
+"H": 6987,
+"O": 1660,
+"A": 1176,
+"B": 16285,
+"W": 39977
+},
+"02": {
+"H": 984,
+"O": 2452,
+"A": 515,
+"B": 245,
+"W": 5139
+},
+"04": {
+"H": 39041,
+"O": 5568,
+"A": 3772,
+"B": 4245,
+"W": 35760
+},
+"05": {
+"H": 4567,
+"O": 1608,
+"A": 1090,
+"B": 6157,
+"W": 26127
+},
+"06": {
+"H": 215992,
+"O": 15706,
+"A": 81510,
+"B": 20370,
+"W": 134832
+},
+"08": {
+"H": 23133,
+"O": 2778,
+"A": 3561,
+"B": 2891,
+"W": 45862
+},
+"09": {
+"H": 10660,
+"O": 1001,
+"A": 2628,
+"B": 4418,
+"W": 23307
+}
+},
+"age": {
+"10": {
+"<18": 318,
+"18-34": 10642,
+"35-39": 1202,
+"40+": 263
+},
+"11": {
+"<18": 237,
+"18-34": 7000,
+"35-39": 2519,
+"40+": 671
+},
+"12": {
+"<18": 5805,
+"18-34": 229065,
+"35-39": 30917,
+"40+": 7398
+},
+"13": {
+"<18": 4611,
+"18-34": 131810,
+"35-39": 13609,
+"40+": 3383
+},
+"15": {
+"<18": 260,
+"18-34": 14303,
+"35-39": 2340,
+"40+": 628
+},
+"16": {
+"<18": 472,
+"18-34": 22370,
+"35-39": 1491,
+"40+": 269
+},
+"17": {
+"<18": 3207,
+"18-34": 121872,
+"35-39": 16177,
+"40+": 3621
+},
+"18": {
+"<18": 2540,
+"18-34": 78153,
+"35-39": 5259,
+"40+": 1009
+},
+"19": {
+"<18": 1008,
+"18-34": 35036,
+"35-39": 2162,
+"40+": 406
+},
+"20": {
+"<18": 1122,
+"18-34": 33383,
+"35-39": 2189,
+"40+": 403
+},
+"21": {
+"<18": 2018,
+"18-34": 52934,
+"35-39": 3090,
+"40+": 594
+},
+"22": {
+"<18": 2578,
+"18-34": 53228,
+"35-39": 3566,
+"40+": 729
+},
+"23": {
+"<18": 179,
+"18-34": 12353,
+"35-39": 1699,
+"40+": 313
+},
+"24": {
+"<18": 1676,
+"18-34": 62174,
+"35-39": 9876,
+"40+": 2547
+},
+"25": {
+"<18": 910,
+"18-34": 68655,
+"35-39": 14380,
+"40+": 2867
+},
+"26": {
+"<18": 2297,
+"18-34": 100201,
+"35-39": 9683,
+"40+": 1792
+},
+"27": {
+"<18": 1083,
+"18-34": 57798,
+"35-39": 6885,
+"40+": 1281
+},
+"28": {
+"<18": 2052,
+"18-34": 34475,
+"35-39": 1530,
+"40+": 336
+},
+"29": {
+"<18": 2341,
+"18-34": 67489,
+"35-39": 5016,
+"40+": 910
+},
+"30": {
+"<18": 274,
+"18-34": 11480,
+"35-39": 1246,
+"40+": 215
+},
+"31": {
+"<18": 718,
+"18-34": 22617,
+"35-39": 1689,
+"40+": 289
+},
+"32": {
+"<18": 862,
+"18-34": 31076,
+"35-39": 3764,
+"40+": 806
+},
+"33": {
+"<18": 98,
+"18-34": 12792,
+"35-39": 1943,
+"40+": 351
+},
+"34": {
+"<18": 1695,
+"18-34": 97438,
+"35-39": 18258,
+"40+": 4189
+},
+"35": {
+"<18": 1032,
+"18-34": 21137,
+"35-39": 1683,
+"40+": 372
+},
+"36": {
+"<18": 3428,
+"18-34": 194757,
+"35-39": 36078,
+"40+": 9409
+},
+"37": {
+"<18": 3758,
+"18-34": 125316,
+"35-39": 12184,
+"40+": 2475
+},
+"38": {
+"<18": 199,
+"18-34": 9258,
+"35-39": 571,
+"40+": 98
+},
+"39": {
+"<18": 3898,
+"18-34": 124180,
+"35-39": 10416,
+"40+": 1913
+},
+"40": {
+"<18": 2030,
+"18-34": 47372,
+"35-39": 2725,
+"40+": 490
+},
+"41": {
+"<18": 822,
+"18-34": 38766,
+"35-39": 6136,
+"40+": 1280
+},
+"42": {
+"<18": 3198,
+"18-34": 124988,
+"35-39": 15514,
+"40+": 3041
+},
+"44": {
+"<18": 194,
+"18-34": 10225,
+"35-39": 1703,
+"40+": 325
+},
+"45": {
+"<18": 2361,
+"18-34": 59929,
+"35-39": 5136,
+"40+": 1118
+},
+"46": {
+"<18": 391,
+"18-34": 10635,
+"35-39": 699,
+"40+": 147
+},
+"47": {
+"<18": 3291,
+"18-34": 86820,
+"35-39": 6869,
+"40+": 1392
+},
+"48": {
+"<18": 16306,
+"18-34": 388734,
+"35-39": 36603,
+"40+": 7971
+},
+"49": {
+"<18": 804,
+"18-34": 44828,
+"35-39": 3000,
+"40+": 655
+},
+"50": {
+"<18": 81,
+"18-34": 5211,
+"35-39": 982,
+"40+": 173
+},
+"51": {
+"<18": 2084,
+"18-34": 92976,
+"35-39": 12441,
+"40+": 2795
+},
+"53": {
+"<18": 1430,
+"18-34": 79727,
+"35-39": 12188,
+"40+": 2626
+},
+"54": {
+"<18": 612,
+"18-34": 17878,
+"35-39": 1000,
+"40+": 179
+},
+"55": {
+"<18": 1389,
+"18-34": 57856,
+"35-39": 5419,
+"40+": 943
+},
+"56": {
+"<18": 168,
+"18-34": 6054,
+"35-39": 449,
+"40+": 84
+},
+"01": {
+"<18": 2633,
+"18-34": 59264,
+"35-39": 3524,
+"40+": 681
+},
+"02": {
+"<18": 197,
+"18-34": 8342,
+"35-39": 854,
+"40+": 156
+},
+"04": {
+"<18": 2431,
+"18-34": 77921,
+"35-39": 7092,
+"40+": 1498
+},
+"05": {
+"<18": 1713,
+"18-34": 35926,
+"35-39": 1701,
+"40+": 307
+},
+"06": {
+"<18": 8251,
+"18-34": 388072,
+"35-39": 72786,
+"40+": 17314
+},
+"08": {
+"<18": 1522,
+"18-34": 65291,
+"35-39": 10227,
+"40+": 1939
+},
+"09": {
+"<18": 560,
+"18-34": 34304,
+"35-39": 5868,
+"40+": 1313
+}
+},
+"educ": {
+"10": {
+"8th grade or less": 343,
+"9th through 12th grade with no diploma": 921,
+"High school graduate or GED completed": 3278,
+"Some college credit, but not a degree": 1869,
+"Associate degree (AA, AS)": 898,
+"Bachelor's degree (BA, AB, BS)": 2768,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 1679,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 436,
+"Unknown or Not Stated": 243
+},
+"11": {
+"8th grade or less": 154,
+"9th through 12th grade with no diploma": 752,
+"High school graduate or GED completed": 1540,
+"Some college credit, but not a degree": 925,
+"Associate degree (AA, AS)": 207,
+"Bachelor's degree (BA, AB, BS)": 2246,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 2933,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 1509,
+"Unknown or Not Stated": 168
+},
+"12": {
+"8th grade or less": 5126,
+"9th through 12th grade with no diploma": 16956,
+"High school graduate or GED completed": 80472,
+"Some college credit, but not a degree": 39838,
+"Associate degree (AA, AS)": 27667,
+"Bachelor's degree (BA, AB, BS)": 65448,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 26707,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 8637,
+"Unknown or Not Stated": 2334
+},
+"13": {
+"8th grade or less": 3019,
+"9th through 12th grade with no diploma": 11051,
+"High school graduate or GED completed": 49865,
+"Some college credit, but not a degree": 22484,
+"Associate degree (AA, AS)": 10500,
+"Bachelor's degree (BA, AB, BS)": 37977,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 14085,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 3985,
+"Unknown or Not Stated": 447
+},
+"15": {
+"8th grade or less": 83,
+"9th through 12th grade with no diploma": 2054,
+"High school graduate or GED completed": 2997,
+"Some college credit, but not a degree": 3183,
+"Associate degree (AA, AS)": 1621,
+"Bachelor's degree (BA, AB, BS)": 4969,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 1973,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 409,
+"Unknown or Not Stated": 243
+},
+"16": {
+"8th grade or less": 212,
+"9th through 12th grade with no diploma": 1813,
+"High school graduate or GED completed": 6475,
+"Some college credit, but not a degree": 5388,
+"Associate degree (AA, AS)": 2215,
+"Bachelor's degree (BA, AB, BS)": 6141,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 1693,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 506,
+"Unknown or Not Stated": 162
+},
+"17": {
+"8th grade or less": 1718,
+"9th through 12th grade with no diploma": 8183,
+"High school graduate or GED completed": 31939,
+"Some college credit, but not a degree": 22378,
+"Associate degree (AA, AS)": 10990,
+"Bachelor's degree (BA, AB, BS)": 40986,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 20572,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 5994,
+"Unknown or Not Stated": 2117
+},
+"18": {
+"8th grade or less": 2909,
+"9th through 12th grade with no diploma": 7628,
+"High school graduate or GED completed": 26173,
+"Some college credit, but not a degree": 13582,
+"Associate degree (AA, AS)": 6056,
+"Bachelor's degree (BA, AB, BS)": 21101,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 6977,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 2320,
+"Unknown or Not Stated": 215
+},
+"19": {
+"8th grade or less": 802,
+"9th through 12th grade with no diploma": 2882,
+"High school graduate or GED completed": 9529,
+"Some college credit, but not a degree": 5353,
+"Associate degree (AA, AS)": 4528,
+"Bachelor's degree (BA, AB, BS)": 10417,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 3706,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 1312,
+"Unknown or Not Stated": 83
+},
+"20": {
+"8th grade or less": 644,
+"9th through 12th grade with no diploma": 2706,
+"High school graduate or GED completed": 9615,
+"Some college credit, but not a degree": 6080,
+"Associate degree (AA, AS)": 3243,
+"Bachelor's degree (BA, AB, BS)": 9402,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 3979,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 1216,
+"Unknown or Not Stated": 215
+},
+"21": {
+"8th grade or less": 1373,
+"9th through 12th grade with no diploma": 4746,
+"High school graduate or GED completed": 18288,
+"Some college credit, but not a degree": 10419,
+"Associate degree (AA, AS)": 4884,
+"Bachelor's degree (BA, AB, BS)": 11544,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 5360,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 1748,
+"Unknown or Not Stated": 277
+},
+"22": {
+"8th grade or less": 1174,
+"9th through 12th grade with no diploma": 5822,
+"High school graduate or GED completed": 20697,
+"Some college credit, but not a degree": 10774,
+"Associate degree (AA, AS)": 3886,
+"Bachelor's degree (BA, AB, BS)": 11427,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 4288,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 1678,
+"Unknown or Not Stated": 356
+},
+"23": {
+"8th grade or less": 106,
+"9th through 12th grade with no diploma": 677,
+"High school graduate or GED completed": 3226,
+"Some college credit, but not a degree": 2428,
+"Associate degree (AA, AS)": 1174,
+"Bachelor's degree (BA, AB, BS)": 4329,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 1968,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 578,
+"Unknown or Not Stated": 59
+},
+"24": {
+"8th grade or less": 1874,
+"9th through 12th grade with no diploma": 5331,
+"High school graduate or GED completed": 15143,
+"Some college credit, but not a degree": 11709,
+"Associate degree (AA, AS)": 4567,
+"Bachelor's degree (BA, AB, BS)": 19184,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 13553,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 4443,
+"Unknown or Not Stated": 469
+},
+"25": {
+"8th grade or less": 1070,
+"9th through 12th grade with no diploma": 4540,
+"High school graduate or GED completed": 13096,
+"Some college credit, but not a degree": 11163,
+"Associate degree (AA, AS)": 4392,
+"Bachelor's degree (BA, AB, BS)": 25134,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 18587,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 6397,
+"Unknown or Not Stated": 2433
+},
+"26": {
+"8th grade or less": 1384,
+"9th through 12th grade with no diploma": 7842,
+"High school graduate or GED completed": 29768,
+"Some college credit, but not a degree": 21775,
+"Associate degree (AA, AS)": 9713,
+"Bachelor's degree (BA, AB, BS)": 26696,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 12266,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 3959,
+"Unknown or Not Stated": 570
+},
+"27": {
+"8th grade or less": 971,
+"9th through 12th grade with no diploma": 3871,
+"High school graduate or GED completed": 10825,
+"Some college credit, but not a degree": 9667,
+"Associate degree (AA, AS)": 6850,
+"Bachelor's degree (BA, AB, BS)": 22436,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 9016,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 3114,
+"Unknown or Not Stated": 297
+},
+"28": {
+"8th grade or less": 677,
+"9th through 12th grade with no diploma": 3573,
+"High school graduate or GED completed": 12436,
+"Some college credit, but not a degree": 6600,
+"Associate degree (AA, AS)": 5312,
+"Bachelor's degree (BA, AB, BS)": 6319,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 2532,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 850,
+"Unknown or Not Stated": 96
+},
+"29": {
+"8th grade or less": 1429,
+"9th through 12th grade with no diploma": 6125,
+"High school graduate or GED completed": 19518,
+"Some college credit, but not a degree": 13294,
+"Associate degree (AA, AS)": 6037,
+"Bachelor's degree (BA, AB, BS)": 18170,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 8371,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 2573,
+"Unknown or Not Stated": 244
+},
+"30": {
+"8th grade or less": 213,
+"9th through 12th grade with no diploma": 986,
+"High school graduate or GED completed": 3154,
+"Some college credit, but not a degree": 2445,
+"Associate degree (AA, AS)": 1140,
+"Bachelor's degree (BA, AB, BS)": 3502,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 1296,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 472,
+"Unknown or Not Stated": 10
+},
+"31": {
+"8th grade or less": 539,
+"9th through 12th grade with no diploma": 1823,
+"High school graduate or GED completed": 5141,
+"Some college credit, but not a degree": 4709,
+"Associate degree (AA, AS)": 2231,
+"Bachelor's degree (BA, AB, BS)": 6948,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 2829,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 1049,
+"Unknown or Not Stated": 44
+},
+"32": {
+"8th grade or less": 275,
+"9th through 12th grade with no diploma": 3359,
+"High school graduate or GED completed": 11589,
+"Some college credit, but not a degree": 6872,
+"Associate degree (AA, AS)": 2736,
+"Bachelor's degree (BA, AB, BS)": 7252,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 2563,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 823,
+"Unknown or Not Stated": 1039
+},
+"33": {
+"8th grade or less": 43,
+"9th through 12th grade with no diploma": 492,
+"High school graduate or GED completed": 2698,
+"Some college credit, but not a degree": 2194,
+"Associate degree (AA, AS)": 1268,
+"Bachelor's degree (BA, AB, BS)": 4928,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 2881,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 617,
+"Unknown or Not Stated": 70
+},
+"34": {
+"8th grade or less": 2351,
+"9th through 12th grade with no diploma": 5510,
+"High school graduate or GED completed": 23235,
+"Some college credit, but not a degree": 14505,
+"Associate degree (AA, AS)": 7637,
+"Bachelor's degree (BA, AB, BS)": 38139,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 23152,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 5847,
+"Unknown or Not Stated": 1204
+},
+"35": {
+"8th grade or less": 367,
+"9th through 12th grade with no diploma": 3175,
+"High school graduate or GED completed": 6518,
+"Some college credit, but not a degree": 5551,
+"Associate degree (AA, AS)": 2174,
+"Bachelor's degree (BA, AB, BS)": 3852,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 1878,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 650,
+"Unknown or Not Stated": 61
+},
+"36": {
+"8th grade or less": 4987,
+"9th through 12th grade with no diploma": 15672,
+"High school graduate or GED completed": 50219,
+"Some college credit, but not a degree": 31780,
+"Associate degree (AA, AS)": 18372,
+"Bachelor's degree (BA, AB, BS)": 64173,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 44872,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 11965,
+"Unknown or Not Stated": 1632
+},
+"37": {
+"8th grade or less": 2426,
+"9th through 12th grade with no diploma": 10041,
+"High school graduate or GED completed": 35016,
+"Some college credit, but not a degree": 23976,
+"Associate degree (AA, AS)": 13165,
+"Bachelor's degree (BA, AB, BS)": 37303,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 16457,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 4977,
+"Unknown or Not Stated": 372
+},
+"38": {
+"8th grade or less": 66,
+"9th through 12th grade with no diploma": 671,
+"High school graduate or GED completed": 2129,
+"Some college credit, but not a degree": 1779,
+"Associate degree (AA, AS)": 1154,
+"Bachelor's degree (BA, AB, BS)": 2920,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 922,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 330,
+"Unknown or Not Stated": 164
+},
+"39": {
+"8th grade or less": 3783,
+"9th through 12th grade with no diploma": 10357,
+"High school graduate or GED completed": 41393,
+"Some college credit, but not a degree": 20089,
+"Associate degree (AA, AS)": 10994,
+"Bachelor's degree (BA, AB, BS)": 33215,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 15273,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 4916,
+"Unknown or Not Stated": 387
+},
+"40": {
+"8th grade or less": 845,
+"9th through 12th grade with no diploma": 5341,
+"High school graduate or GED completed": 16545,
+"Some college credit, but not a degree": 10655,
+"Associate degree (AA, AS)": 4123,
+"Bachelor's degree (BA, AB, BS)": 10395,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 3392,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 1210,
+"Unknown or Not Stated": 113
+},
+"41": {
+"8th grade or less": 589,
+"9th through 12th grade with no diploma": 3450,
+"High school graduate or GED completed": 10727,
+"Some college credit, but not a degree": 8832,
+"Associate degree (AA, AS)": 3683,
+"Bachelor's degree (BA, AB, BS)": 11899,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 5322,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 2032,
+"Unknown or Not Stated": 476
+},
+"42": {
+"8th grade or less": 3479,
+"9th through 12th grade with no diploma": 9368,
+"High school graduate or GED completed": 34381,
+"Some college credit, but not a degree": 19985,
+"Associate degree (AA, AS)": 11003,
+"Bachelor's degree (BA, AB, BS)": 38832,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 21987,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 6893,
+"Unknown or Not Stated": 813
+},
+"44": {
+"8th grade or less": 172,
+"9th through 12th grade with no diploma": 817,
+"High school graduate or GED completed": 2316,
+"Some college credit, but not a degree": 2066,
+"Associate degree (AA, AS)": 833,
+"Bachelor's degree (BA, AB, BS)": 3459,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 2023,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 668,
+"Unknown or Not Stated": 106
+},
+"45": {
+"8th grade or less": 1219,
+"9th through 12th grade with no diploma": 5770,
+"High school graduate or GED completed": 17971,
+"Some college credit, but not a degree": 12448,
+"Associate degree (AA, AS)": 5793,
+"Bachelor's degree (BA, AB, BS)": 16145,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 6804,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 2125,
+"Unknown or Not Stated": 274
+},
+"46": {
+"8th grade or less": 396,
+"9th through 12th grade with no diploma": 1184,
+"High school graduate or GED completed": 2806,
+"Some college credit, but not a degree": 1610,
+"Associate degree (AA, AS)": 1211,
+"Bachelor's degree (BA, AB, BS)": 3253,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 962,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 398,
+"Unknown or Not Stated": 53
+},
+"47": {
+"8th grade or less": 2976,
+"9th through 12th grade with no diploma": 7955,
+"High school graduate or GED completed": 26121,
+"Some college credit, but not a degree": 17864,
+"Associate degree (AA, AS)": 7245,
+"Bachelor's degree (BA, AB, BS)": 23115,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 9556,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 3098,
+"Unknown or Not Stated": 442
+},
+"48": {
+"8th grade or less": 8308,
+"9th through 12th grade with no diploma": 41459,
+"High school graduate or GED completed": 128932,
+"Some college credit, but not a degree": 80343,
+"Associate degree (AA, AS)": 30885,
+"Bachelor's degree (BA, AB, BS)": 102286,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 42005,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 12030,
+"Unknown or Not Stated": 3366
+},
+"49": {
+"8th grade or less": 324,
+"9th through 12th grade with no diploma": 2704,
+"High school graduate or GED completed": 10797,
+"Some college credit, but not a degree": 10988,
+"Associate degree (AA, AS)": 4918,
+"Bachelor's degree (BA, AB, BS)": 14152,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 3844,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 943,
+"Unknown or Not Stated": 622
+},
+"50": {
+"8th grade or less": 20,
+"9th through 12th grade with no diploma": 344,
+"High school graduate or GED completed": 1246,
+"Some college credit, but not a degree": 880,
+"Associate degree (AA, AS)": 415,
+"Bachelor's degree (BA, AB, BS)": 1991,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 1186,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 348,
+"Unknown or Not Stated": 29
+},
+"51": {
+"8th grade or less": 2127,
+"9th through 12th grade with no diploma": 5236,
+"High school graduate or GED completed": 27107,
+"Some college credit, but not a degree": 14995,
+"Associate degree (AA, AS)": 7214,
+"Bachelor's degree (BA, AB, BS)": 29959,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 16937,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 4807,
+"Unknown or Not Stated": 1914
+},
+"53": {
+"8th grade or less": 784,
+"9th through 12th grade with no diploma": 5601,
+"High school graduate or GED completed": 18558,
+"Some college credit, but not a degree": 16089,
+"Associate degree (AA, AS)": 8280,
+"Bachelor's degree (BA, AB, BS)": 24777,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 15010,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 3897,
+"Unknown or Not Stated": 2975
+},
+"54": {
+"8th grade or less": 121,
+"9th through 12th grade with no diploma": 1771,
+"High school graduate or GED completed": 6493,
+"Some college credit, but not a degree": 3610,
+"Associate degree (AA, AS)": 1887,
+"Bachelor's degree (BA, AB, BS)": 3554,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 1634,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 549,
+"Unknown or Not Stated": 61
+},
+"55": {
+"8th grade or less": 1365,
+"9th through 12th grade with no diploma": 3532,
+"High school graduate or GED completed": 15418,
+"Some college credit, but not a degree": 9317,
+"Associate degree (AA, AS)": 6419,
+"Bachelor's degree (BA, AB, BS)": 19689,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 6901,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 2487,
+"Unknown or Not Stated": 483
+},
+"56": {
+"8th grade or less": 44,
+"9th through 12th grade with no diploma": 524,
+"High school graduate or GED completed": 1678,
+"Some college credit, but not a degree": 1471,
+"Associate degree (AA, AS)": 801,
+"Bachelor's degree (BA, AB, BS)": 1420,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 514,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 193,
+"Unknown or Not Stated": 121
+},
+"01": {
+"8th grade or less": 2164,
+"9th through 12th grade with no diploma": 5266,
+"High school graduate or GED completed": 21895,
+"Some college credit, but not a degree": 11055,
+"Associate degree (AA, AS)": 5679,
+"Bachelor's degree (BA, AB, BS)": 12421,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 5768,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 1740,
+"Unknown or Not Stated": 120
+},
+"02": {
+"8th grade or less": 24,
+"9th through 12th grade with no diploma": 639,
+"High school graduate or GED completed": 2861,
+"Some college credit, but not a degree": 2213,
+"Associate degree (AA, AS)": 686,
+"Bachelor's degree (BA, AB, BS)": 1954,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 766,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 289,
+"Unknown or Not Stated": 126
+},
+"04": {
+"8th grade or less": 1243,
+"9th through 12th grade with no diploma": 8916,
+"High school graduate or GED completed": 24932,
+"Some college credit, but not a degree": 16752,
+"Associate degree (AA, AS)": 7010,
+"Bachelor's degree (BA, AB, BS)": 19524,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 7479,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 2594,
+"Unknown or Not Stated": 492
+},
+"05": {
+"8th grade or less": 499,
+"9th through 12th grade with no diploma": 3613,
+"High school graduate or GED completed": 13013,
+"Some college credit, but not a degree": 7209,
+"Associate degree (AA, AS)": 3281,
+"Bachelor's degree (BA, AB, BS)": 7537,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 3093,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 947,
+"Unknown or Not Stated": 456
+},
+"06": {
+"8th grade or less": 6378,
+"9th through 12th grade with no diploma": 21351,
+"High school graduate or GED completed": 104777,
+"Some college credit, but not a degree": 74385,
+"Associate degree (AA, AS)": 31301,
+"Bachelor's degree (BA, AB, BS)": 123397,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 63935,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 21306,
+"Unknown or Not Stated": 39593
+},
+"08": {
+"8th grade or less": 1004,
+"9th through 12th grade with no diploma": 4992,
+"High school graduate or GED completed": 15212,
+"Some college credit, but not a degree": 12979,
+"Associate degree (AA, AS)": 5231,
+"Bachelor's degree (BA, AB, BS)": 23724,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 11707,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 3439,
+"Unknown or Not Stated": 691
+},
+"09": {
+"8th grade or less": 499,
+"9th through 12th grade with no diploma": 2124,
+"High school graduate or GED completed": 7468,
+"Some college credit, but not a degree": 5751,
+"Associate degree (AA, AS)": 3193,
+"Bachelor's degree (BA, AB, BS)": 11915,
+"Master's degree (MA, MS, MEng, MEd, MSW, MBA)": 8693,
+"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)": 2349,
+"Unknown or Not Stated": 53
+}
+},
+"bmi": {
+"10": {
+"Underweight <18.5": 332,
+"Normal 18.5-24.9": 4458,
+"Overweight 25.0-29.9": 3431,
+"Obesity I 30.0-34.9": 2037,
+"Obesity II 35.0-39.9": 1120,
+"Extreme Obesity III > 39.9": 918,
+"Unknown or Not Stated": 139
+},
+"11": {
+"Underweight <18.5": 307,
+"Normal 18.5-24.9": 5297,
+"Overweight 25.0-29.9": 2401,
+"Obesity I 30.0-34.9": 1117,
+"Obesity II 35.0-39.9": 479,
+"Extreme Obesity III > 39.9": 334,
+"Unknown or Not Stated": 499
+},
+"12": {
+"Underweight <18.5": 9974,
+"Normal 18.5-24.9": 113782,
+"Overweight 25.0-29.9": 75546,
+"Obesity I 30.0-34.9": 38865,
+"Obesity II 35.0-39.9": 17223,
+"Extreme Obesity III > 39.9": 11589,
+"Unknown or Not Stated": 6206
+},
+"13": {
+"Underweight <18.5": 5267,
+"Normal 18.5-24.9": 63009,
+"Overweight 25.0-29.9": 41395,
+"Obesity I 30.0-34.9": 22677,
+"Obesity II 35.0-39.9": 11536,
+"Extreme Obesity III > 39.9": 8849,
+"Unknown or Not Stated": 680
+},
+"15": {
+"Underweight <18.5": 490,
+"Normal 18.5-24.9": 7527,
+"Overweight 25.0-29.9": 4610,
+"Obesity I 30.0-34.9": 2334,
+"Obesity II 35.0-39.9": 1042,
+"Extreme Obesity III > 39.9": 588,
+"Unknown or Not Stated": 941
+},
+"16": {
+"Underweight <18.5": 819,
+"Normal 18.5-24.9": 10873,
+"Overweight 25.0-29.9": 6359,
+"Obesity I 30.0-34.9": 3509,
+"Obesity II 35.0-39.9": 1695,
+"Extreme Obesity III > 39.9": 1145,
+"Unknown or Not Stated": 205
+},
+"17": {
+"Underweight <18.5": 3810,
+"Normal 18.5-24.9": 55712,
+"Overweight 25.0-29.9": 38990,
+"Obesity I 30.0-34.9": 22186,
+"Obesity II 35.0-39.9": 11543,
+"Extreme Obesity III > 39.9": 8737,
+"Unknown or Not Stated": 3899
+},
+"18": {
+"Underweight <18.5": 2949,
+"Normal 18.5-24.9": 32724,
+"Overweight 25.0-29.9": 21950,
+"Obesity I 30.0-34.9": 13538,
+"Obesity II 35.0-39.9": 7588,
+"Extreme Obesity III > 39.9": 6385,
+"Unknown or Not Stated": 1827
+},
+"19": {
+"Underweight <18.5": 1148,
+"Normal 18.5-24.9": 15416,
+"Overweight 25.0-29.9": 10158,
+"Obesity I 30.0-34.9": 5833,
+"Obesity II 35.0-39.9": 3231,
+"Extreme Obesity III > 39.9": 2727,
+"Unknown or Not Stated": 99
+},
+"20": {
+"Underweight <18.5": 1045,
+"Normal 18.5-24.9": 14425,
+"Overweight 25.0-29.9": 10045,
+"Obesity I 30.0-34.9": 5885,
+"Obesity II 35.0-39.9": 3183,
+"Extreme Obesity III > 39.9": 2278,
+"Unknown or Not Stated": 239
+},
+"21": {
+"Underweight <18.5": 2536,
+"Normal 18.5-24.9": 22059,
+"Overweight 25.0-29.9": 14801,
+"Obesity I 30.0-34.9": 9329,
+"Obesity II 35.0-39.9": 5317,
+"Extreme Obesity III > 39.9": 4418,
+"Unknown or Not Stated": 179
+},
+"22": {
+"Underweight <18.5": 2232,
+"Normal 18.5-24.9": 22648,
+"Overweight 25.0-29.9": 15148,
+"Obesity I 30.0-34.9": 9416,
+"Obesity II 35.0-39.9": 5165,
+"Extreme Obesity III > 39.9": 4568,
+"Unknown or Not Stated": 925
+},
+"23": {
+"Underweight <18.5": 300,
+"Normal 18.5-24.9": 5675,
+"Overweight 25.0-29.9": 3844,
+"Obesity I 30.0-34.9": 2153,
+"Obesity II 35.0-39.9": 1190,
+"Extreme Obesity III > 39.9": 961,
+"Unknown or Not Stated": 422
+},
+"24": {
+"Underweight <18.5": 2219,
+"Normal 18.5-24.9": 29393,
+"Overweight 25.0-29.9": 20227,
+"Obesity I 30.0-34.9": 11276,
+"Obesity II 35.0-39.9": 5484,
+"Extreme Obesity III > 39.9": 4089,
+"Unknown or Not Stated": 3585
+},
+"25": {
+"Underweight <18.5": 2440,
+"Normal 18.5-24.9": 39115,
+"Overweight 25.0-29.9": 23611,
+"Obesity I 30.0-34.9": 11685,
+"Obesity II 35.0-39.9": 5090,
+"Extreme Obesity III > 39.9": 3208,
+"Unknown or Not Stated": 1663
+},
+"26": {
+"Underweight <18.5": 3886,
+"Normal 18.5-24.9": 45985,
+"Overweight 25.0-29.9": 29028,
+"Obesity I 30.0-34.9": 17112,
+"Obesity II 35.0-39.9": 8973,
+"Extreme Obesity III > 39.9": 7285,
+"Unknown or Not Stated": 1704
+},
+"27": {
+"Underweight <18.5": 1496,
+"Normal 18.5-24.9": 27457,
+"Overweight 25.0-29.9": 18453,
+"Obesity I 30.0-34.9": 10168,
+"Obesity II 35.0-39.9": 5197,
+"Extreme Obesity III > 39.9": 3652,
+"Unknown or Not Stated": 624
+},
+"28": {
+"Underweight <18.5": 1424,
+"Normal 18.5-24.9": 13074,
+"Overweight 25.0-29.9": 9591,
+"Obesity I 30.0-34.9": 6613,
+"Obesity II 35.0-39.9": 3911,
+"Extreme Obesity III > 39.9": 3618,
+"Unknown or Not Stated": 164
+},
+"29": {
+"Underweight <18.5": 2894,
+"Normal 18.5-24.9": 30474,
+"Overweight 25.0-29.9": 18686,
+"Obesity I 30.0-34.9": 11265,
+"Obesity II 35.0-39.9": 6107,
+"Extreme Obesity III > 39.9": 4980,
+"Unknown or Not Stated": 1355
+},
+"30": {
+"Underweight <18.5": 371,
+"Normal 18.5-24.9": 5874,
+"Overweight 25.0-29.9": 3576,
+"Obesity I 30.0-34.9": 1853,
+"Obesity II 35.0-39.9": 903,
+"Extreme Obesity III > 39.9": 620,
+"Unknown or Not Stated": 21
+},
+"31": {
+"Underweight <18.5": 757,
+"Normal 18.5-24.9": 10694,
+"Overweight 25.0-29.9": 6706,
+"Obesity I 30.0-34.9": 3677,
+"Obesity II 35.0-39.9": 1861,
+"Extreme Obesity III > 39.9": 1436,
+"Unknown or Not Stated": 182
+},
+"32": {
+"Underweight <18.5": 1601,
+"Normal 18.5-24.9": 15201,
+"Overweight 25.0-29.9": 9542,
+"Obesity I 30.0-34.9": 5392,
+"Obesity II 35.0-39.9": 2521,
+"Extreme Obesity III > 39.9": 1659,
+"Unknown or Not Stated": 592
+},
+"33": {
+"Underweight <18.5": 370,
+"Normal 18.5-24.9": 6086,
+"Overweight 25.0-29.9": 4043,
+"Obesity I 30.0-34.9": 2164,
+"Obesity II 35.0-39.9": 1181,
+"Extreme Obesity III > 39.9": 893,
+"Unknown or Not Stated": 454
+},
+"34": {
+"Underweight <18.5": 3537,
+"Normal 18.5-24.9": 53995,
+"Overweight 25.0-29.9": 34065,
+"Obesity I 30.0-34.9": 16373,
+"Obesity II 35.0-39.9": 7111,
+"Extreme Obesity III > 39.9": 4432,
+"Unknown or Not Stated": 2067
+},
+"35": {
+"Underweight <18.5": 1059,
+"Normal 18.5-24.9": 9839,
+"Overweight 25.0-29.9": 6265,
+"Obesity I 30.0-34.9": 3790,
+"Obesity II 35.0-39.9": 1841,
+"Extreme Obesity III > 39.9": 1177,
+"Unknown or Not Stated": 255
+},
+"36": {
+"Underweight <18.5": 8753,
+"Normal 18.5-24.9": 109105,
+"Overweight 25.0-29.9": 63539,
+"Obesity I 30.0-34.9": 32397,
+"Obesity II 35.0-39.9": 14440,
+"Extreme Obesity III > 39.9": 9553,
+"Unknown or Not Stated": 5885
+},
+"37": {
+"Underweight <18.5": 4989,
+"Normal 18.5-24.9": 59105,
+"Overweight 25.0-29.9": 37018,
+"Obesity I 30.0-34.9": 20975,
+"Obesity II 35.0-39.9": 11017,
+"Extreme Obesity III > 39.9": 8651,
+"Unknown or Not Stated": 1978
+},
+"38": {
+"Underweight <18.5": 206,
+"Normal 18.5-24.9": 3561,
+"Overweight 25.0-29.9": 2666,
+"Obesity I 30.0-34.9": 1617,
+"Obesity II 35.0-39.9": 862,
+"Extreme Obesity III > 39.9": 679,
+"Unknown or Not Stated": 544
+},
+"39": {
+"Underweight <18.5": 5180,
+"Normal 18.5-24.9": 56218,
+"Overweight 25.0-29.9": 35061,
+"Obesity I 30.0-34.9": 21272,
+"Obesity II 35.0-39.9": 11672,
+"Extreme Obesity III > 39.9": 9926,
+"Unknown or Not Stated": 1078
+},
+"40": {
+"Underweight <18.5": 2313,
+"Normal 18.5-24.9": 20430,
+"Overweight 25.0-29.9": 13322,
+"Obesity I 30.0-34.9": 8379,
+"Obesity II 35.0-39.9": 4326,
+"Extreme Obesity III > 39.9": 3529,
+"Unknown or Not Stated": 320
+},
+"41": {
+"Underweight <18.5": 1398,
+"Normal 18.5-24.9": 20944,
+"Overweight 25.0-29.9": 11830,
+"Obesity I 30.0-34.9": 6405,
+"Obesity II 35.0-39.9": 3382,
+"Extreme Obesity III > 39.9": 2420,
+"Unknown or Not Stated": 631
+},
+"42": {
+"Underweight <18.5": 4742,
+"Normal 18.5-24.9": 62232,
+"Overweight 25.0-29.9": 37098,
+"Obesity I 30.0-34.9": 20880,
+"Obesity II 35.0-39.9": 10760,
+"Extreme Obesity III > 39.9": 8333,
+"Unknown or Not Stated": 2696
+},
+"44": {
+"Underweight <18.5": 329,
+"Normal 18.5-24.9": 5397,
+"Overweight 25.0-29.9": 3310,
+"Obesity I 30.0-34.9": 1837,
+"Obesity II 35.0-39.9": 842,
+"Extreme Obesity III > 39.9": 639,
+"Unknown or Not Stated": 106
+},
+"45": {
+"Underweight <18.5": 2607,
+"Normal 18.5-24.9": 26834,
+"Overweight 25.0-29.9": 17330,
+"Obesity I 30.0-34.9": 10578,
+"Obesity II 35.0-39.9": 5740,
+"Extreme Obesity III > 39.9": 4830,
+"Unknown or Not Stated": 630
+},
+"46": {
+"Underweight <18.5": 388,
+"Normal 18.5-24.9": 5020,
+"Overweight 25.0-29.9": 3134,
+"Obesity I 30.0-34.9": 1711,
+"Obesity II 35.0-39.9": 909,
+"Extreme Obesity III > 39.9": 626,
+"Unknown or Not Stated": 85
+},
+"47": {
+"Underweight <18.5": 4048,
+"Normal 18.5-24.9": 41100,
+"Overweight 25.0-29.9": 24720,
+"Obesity I 30.0-34.9": 14333,
+"Obesity II 35.0-39.9": 7616,
+"Extreme Obesity III > 39.9": 5884,
+"Unknown or Not Stated": 671
+},
+"48": {
+"Underweight <18.5": 16183,
+"Normal 18.5-24.9": 179858,
+"Overweight 25.0-29.9": 121171,
+"Obesity I 30.0-34.9": 69590,
+"Obesity II 35.0-39.9": 33587,
+"Extreme Obesity III > 39.9": 22306,
+"Unknown or Not Stated": 6919
+},
+"49": {
+"Underweight <18.5": 1920,
+"Normal 18.5-24.9": 23736,
+"Overweight 25.0-29.9": 12147,
+"Obesity I 30.0-34.9": 6352,
+"Obesity II 35.0-39.9": 2810,
+"Extreme Obesity III > 39.9": 1919,
+"Unknown or Not Stated": 408
+},
+"50": {
+"Underweight <18.5": 161,
+"Normal 18.5-24.9": 2821,
+"Overweight 25.0-29.9": 1627,
+"Obesity I 30.0-34.9": 884,
+"Obesity II 35.0-39.9": 476,
+"Extreme Obesity III > 39.9": 421,
+"Unknown or Not Stated": 69
+},
+"51": {
+"Underweight <18.5": 3176,
+"Normal 18.5-24.9": 44366,
+"Overweight 25.0-29.9": 29834,
+"Obesity I 30.0-34.9": 16038,
+"Obesity II 35.0-39.9": 8111,
+"Extreme Obesity III > 39.9": 5937,
+"Unknown or Not Stated": 2834
+},
+"53": {
+"Underweight <18.5": 2905,
+"Normal 18.5-24.9": 41913,
+"Overweight 25.0-29.9": 23026,
+"Obesity I 30.0-34.9": 12264,
+"Obesity II 35.0-39.9": 5762,
+"Extreme Obesity III > 39.9": 4161,
+"Unknown or Not Stated": 5940
+},
+"54": {
+"Underweight <18.5": 829,
+"Normal 18.5-24.9": 6708,
+"Overweight 25.0-29.9": 4718,
+"Obesity I 30.0-34.9": 3319,
+"Obesity II 35.0-39.9": 2103,
+"Extreme Obesity III > 39.9": 1876,
+"Unknown or Not Stated": 127
+},
+"55": {
+"Underweight <18.5": 1652,
+"Normal 18.5-24.9": 26323,
+"Overweight 25.0-29.9": 17230,
+"Obesity I 30.0-34.9": 10064,
+"Obesity II 35.0-39.9": 5339,
+"Extreme Obesity III > 39.9": 4282,
+"Unknown or Not Stated": 721
+},
+"56": {
+"Underweight <18.5": 307,
+"Normal 18.5-24.9": 3031,
+"Overweight 25.0-29.9": 1665,
+"Obesity I 30.0-34.9": 960,
+"Obesity II 35.0-39.9": 415,
+"Extreme Obesity III > 39.9": 315,
+"Unknown or Not Stated": 73
+},
+"01": {
+"Underweight <18.5": 2371,
+"Normal 18.5-24.9": 24290,
+"Overweight 25.0-29.9": 16775,
+"Obesity I 30.0-34.9": 10710,
+"Obesity II 35.0-39.9": 6197,
+"Extreme Obesity III > 39.9": 5349,
+"Unknown or Not Stated": 416
+},
+"02": {
+"Underweight <18.5": 238,
+"Normal 18.5-24.9": 4025,
+"Overweight 25.0-29.9": 2583,
+"Obesity I 30.0-34.9": 1373,
+"Obesity II 35.0-39.9": 655,
+"Extreme Obesity III > 39.9": 451,
+"Unknown or Not Stated": 233
+},
+"04": {
+"Underweight <18.5": 3345,
+"Normal 18.5-24.9": 36211,
+"Overweight 25.0-29.9": 23925,
+"Obesity I 30.0-34.9": 13668,
+"Obesity II 35.0-39.9": 6579,
+"Extreme Obesity III > 39.9": 4180,
+"Unknown or Not Stated": 1034
+},
+"05": {
+"Underweight <18.5": 1456,
+"Normal 18.5-24.9": 14366,
+"Overweight 25.0-29.9": 9950,
+"Obesity I 30.0-34.9": 6454,
+"Obesity II 35.0-39.9": 3609,
+"Extreme Obesity III > 39.9": 2994,
+"Unknown or Not Stated": 819
+},
+"06": {
+"Underweight <18.5": 15854,
+"Normal 18.5-24.9": 210389,
+"Overweight 25.0-29.9": 128138,
+"Obesity I 30.0-34.9": 68253,
+"Obesity II 35.0-39.9": 30734,
+"Extreme Obesity III > 39.9": 18566,
+"Unknown or Not Stated": 14489
+},
+"08": {
+"Underweight <18.5": 2315,
+"Normal 18.5-24.9": 35481,
+"Overweight 25.0-29.9": 20403,
+"Obesity I 30.0-34.9": 9854,
+"Obesity II 35.0-39.9": 4271,
+"Extreme Obesity III > 39.9": 2599,
+"Unknown or Not Stated": 4056
+},
+"09": {
+"Underweight <18.5": 1251,
+"Normal 18.5-24.9": 18744,
+"Overweight 25.0-29.9": 11045,
+"Obesity I 30.0-34.9": 6054,
+"Obesity II 35.0-39.9": 2826,
+"Extreme Obesity III > 39.9": 2056,
+"Unknown or Not Stated": 69
+}
+},
+"smoke": {
+"10": {
+"Nonsmoker": 12074,
+"1-5": 110,
+"6-10": 76,
+"11-20": 83,
+"21-40": 14,
+"Unknown or Not Stated": 75
+},
+"11": {
+"Nonsmoker": 10342,
+"1-5": 36,
+"6-10": 14,
+"Unknown or Not Stated": 31
+},
+"12": {
+"Nonsmoker": 269052,
+"1-5": 1375,
+"6-10": 907,
+"11-20": 973,
+"21-40": 98,
+"41 or more": 33,
+"Unknown or Not Stated": 747
+},
+"13": {
+"Nonsmoker": 150649,
+"1-5": 637,
+"6-10": 767,
+"11-20": 850,
+"21-40": 172,
+"41 or more": 101,
+"Unknown or Not Stated": 237
+},
+"15": {
+"Nonsmoker": 17081,
+"1-5": 44,
+"6-10": 32,
+"11-20": 81,
+"Unknown or Not Stated": 289
+},
+"16": {
+"Nonsmoker": 23685,
+"1-5": 256,
+"6-10": 221,
+"11-20": 292,
+"21-40": 53,
+"41 or more": 24,
+"Unknown or Not Stated": 74
+},
+"17": {
+"Nonsmoker": 141749,
+"1-5": 1080,
+"6-10": 985,
+"11-20": 676,
+"21-40": 97,
+"41 or more": 30,
+"Unknown or Not Stated": 260
+},
+"18": {
+"Nonsmoker": 83262,
+"1-5": 815,
+"6-10": 1029,
+"11-20": 1193,
+"21-40": 214,
+"41 or more": 69,
+"Unknown or Not Stated": 379
+},
+"19": {
+"Nonsmoker": 36291,
+"1-5": 762,
+"6-10": 666,
+"11-20": 724,
+"21-40": 111,
+"41 or more": 14,
+"Unknown or Not Stated": 44
+},
+"20": {
+"Nonsmoker": 35386,
+"1-5": 687,
+"6-10": 464,
+"11-20": 347,
+"21-40": 46,
+"Unknown or Not Stated": 166
+},
+"21": {
+"Nonsmoker": 54631,
+"1-5": 832,
+"6-10": 1256,
+"11-20": 1418,
+"21-40": 220,
+"41 or more": 32,
+"Unknown or Not Stated": 250
+},
+"22": {
+"Nonsmoker": 58641,
+"1-5": 323,
+"6-10": 413,
+"11-20": 224,
+"21-40": 39,
+"Unknown or Not Stated": 456
+},
+"23": {
+"Nonsmoker": 13670,
+"1-5": 270,
+"6-10": 345,
+"11-20": 211,
+"21-40": 34,
+"Unknown or Not Stated": 11
+},
+"24": {
+"Nonsmoker": 74068,
+"1-5": 841,
+"6-10": 581,
+"11-20": 452,
+"21-40": 48,
+"Unknown or Not Stated": 275
+},
+"25": {
+"Nonsmoker": 84996,
+"1-5": 684,
+"6-10": 494,
+"11-20": 525,
+"21-40": 87,
+"41 or more": 15,
+"Unknown or Not Stated": 11
+},
+"26": {
+"Nonsmoker": 106226,
+"1-5": 2359,
+"6-10": 1968,
+"11-20": 2169,
+"21-40": 283,
+"41 or more": 115,
+"Unknown or Not Stated": 853
+},
+"27": {
+"Nonsmoker": 64473,
+"1-5": 839,
+"6-10": 827,
+"11-20": 666,
+"21-40": 103,
+"41 or more": 73,
+"Unknown or Not Stated": 66
+},
+"28": {
+"Nonsmoker": 37436,
+"1-5": 388,
+"6-10": 286,
+"11-20": 200,
+"21-40": 25,
+"41 or more": 25,
+"Unknown or Not Stated": 35
+},
+"29": {
+"Nonsmoker": 70364,
+"1-5": 1113,
+"6-10": 1146,
+"11-20": 1769,
+"21-40": 415,
+"41 or more": 112,
+"Unknown or Not Stated": 842
+},
+"30": {
+"Nonsmoker": 12414,
+"1-5": 310,
+"6-10": 291,
+"11-20": 171,
+"21-40": 20,
+"41 or more": 10
+},
+"31": {
+"Nonsmoker": 24061,
+"1-5": 550,
+"6-10": 386,
+"11-20": 254,
+"21-40": 44,
+"Unknown or Not Stated": 13
+},
+"32": {
+"Nonsmoker": 35714,
+"1-5": 242,
+"6-10": 121,
+"11-20": 163,
+"21-40": 41,
+"41 or more": 38,
+"Unknown or Not Stated": 189
+},
+"33": {
+"Nonsmoker": 14644,
+"1-5": 113,
+"6-10": 169,
+"11-20": 120,
+"21-40": 20,
+"Unknown or Not Stated": 122
+},
+"34": {
+"Nonsmoker": 119254,
+"1-5": 757,
+"6-10": 464,
+"11-20": 261,
+"21-40": 31,
+"Unknown or Not Stated": 811
+},
+"35": {
+"Nonsmoker": 23208,
+"1-5": 341,
+"6-10": 194,
+"11-20": 299,
+"21-40": 82,
+"41 or more": 38,
+"Unknown or Not Stated": 64
+},
+"36": {
+"Nonsmoker": 238618,
+"1-5": 1866,
+"6-10": 1566,
+"11-20": 1248,
+"21-40": 191,
+"41 or more": 35,
+"Unknown or Not Stated": 148
+},
+"37": {
+"Nonsmoker": 139312,
+"1-5": 1353,
+"6-10": 1223,
+"11-20": 1325,
+"21-40": 311,
+"41 or more": 73,
+"Unknown or Not Stated": 136
+},
+"38": {
+"Nonsmoker": 9459,
+"1-5": 204,
+"6-10": 200,
+"11-20": 157,
+"21-40": 31,
+"41 or more": 11,
+"Unknown or Not Stated": 73
+},
+"39": {
+"Nonsmoker": 132192,
+"1-5": 2289,
+"6-10": 2294,
+"11-20": 2882,
+"21-40": 467,
+"41 or more": 153,
+"Unknown or Not Stated": 130
+},
+"40": {
+"Nonsmoker": 50200,
+"1-5": 852,
+"6-10": 596,
+"11-20": 715,
+"21-40": 124,
+"41 or more": 84,
+"Unknown or Not Stated": 48
+},
+"41": {
+"Nonsmoker": 45024,
+"1-5": 625,
+"6-10": 591,
+"11-20": 387,
+"21-40": 57,
+"41 or more": 13,
+"Unknown or Not Stated": 313
+},
+"42": {
+"Nonsmoker": 138951,
+"1-5": 2020,
+"6-10": 2446,
+"11-20": 2592,
+"21-40": 516,
+"41 or more": 94,
+"Unknown or Not Stated": 122
+},
+"44": {
+"Nonsmoker": 12273,
+"1-5": 32,
+"6-10": 46,
+"11-20": 64,
+"21-40": 11,
+"Unknown or Not Stated": 31
+},
+"45": {
+"Nonsmoker": 66155,
+"1-5": 560,
+"6-10": 553,
+"11-20": 796,
+"21-40": 157,
+"41 or more": 60,
+"Unknown or Not Stated": 268
+},
+"46": {
+"Nonsmoker": 11013,
+"1-5": 353,
+"6-10": 241,
+"11-20": 186,
+"21-40": 19,
+"Unknown or Not Stated": 60
+},
+"47": {
+"Nonsmoker": 92772,
+"1-5": 1145,
+"6-10": 1415,
+"11-20": 1916,
+"21-40": 430,
+"41 or more": 166,
+"Unknown or Not Stated": 528
+},
+"48": {
+"Nonsmoker": 443731,
+"1-5": 2194,
+"6-10": 1160,
+"11-20": 1300,
+"21-40": 135,
+"41 or more": 22,
+"Unknown or Not Stated": 1072
+},
+"49": {
+"Nonsmoker": 48269,
+"1-5": 414,
+"6-10": 255,
+"11-20": 186,
+"21-40": 24,
+"Unknown or Not Stated": 140
+},
+"50": {
+"Nonsmoker": 6053,
+"1-5": 121,
+"6-10": 134,
+"11-20": 99,
+"21-40": 15,
+"Unknown or Not Stated": 35
+},
+"51": {
+"Nonsmoker": 107895,
+"1-5": 860,
+"6-10": 721,
+"11-20": 649,
+"21-40": 121,
+"41 or more": 29,
+"Unknown or Not Stated": 21
+},
+"53": {
+"Nonsmoker": 91162,
+"1-5": 966,
+"6-10": 780,
+"11-20": 643,
+"21-40": 126,
+"41 or more": 47,
+"Unknown or Not Stated": 2247
+},
+"54": {
+"Nonsmoker": 17760,
+"1-5": 369,
+"6-10": 648,
+"11-20": 698,
+"21-40": 138,
+"41 or more": 18,
+"Unknown or Not Stated": 49
+},
+"55": {
+"Nonsmoker": 62552,
+"1-5": 994,
+"6-10": 951,
+"11-20": 648,
+"21-40": 87,
+"41 or more": 23,
+"Unknown or Not Stated": 356
+},
+"56": {
+"Nonsmoker": 6104,
+"1-5": 174,
+"6-10": 171,
+"11-20": 163,
+"21-40": 36,
+"Unknown or Not Stated": 113
+},
+"01": {
+"Nonsmoker": 64093,
+"1-5": 714,
+"6-10": 630,
+"11-20": 516,
+"21-40": 60,
+"Unknown or Not Stated": 92
+},
+"02": {
+"Nonsmoker": 8913,
+"1-5": 194,
+"6-10": 146,
+"11-20": 95,
+"21-40": 30,
+"41 or more": 20,
+"Unknown or Not Stated": 160
+},
+"04": {
+"Nonsmoker": 86523,
+"1-5": 1408,
+"6-10": 583,
+"11-20": 339,
+"21-40": 35,
+"Unknown or Not Stated": 49
+},
+"05": {
+"Nonsmoker": 37486,
+"1-5": 876,
+"6-10": 606,
+"11-20": 510,
+"21-40": 71,
+"Unknown or Not Stated": 90
+},
+"06": {
+"Nonsmoker": 482212,
+"1-5": 1383,
+"6-10": 704,
+"11-20": 540,
+"21-40": 89,
+"41 or more": 36,
+"Unknown or Not Stated": 1459
+},
+"08": {
+"Nonsmoker": 76896,
+"1-5": 904,
+"6-10": 713,
+"11-20": 236,
+"21-40": 34,
+"41 or more": 24,
+"Unknown or Not Stated": 172
+},
+"09": {
+"Nonsmoker": 41094,
+"1-5": 399,
+"6-10": 298,
+"11-20": 203,
+"21-40": 21,
+"Unknown or Not Stated": 28
+}
+}
+}

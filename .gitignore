@@ -1,0 +1,11 @@
+data/
+*.csv
+__pycache__/
+*.pyc
+.venv/
+results/revision/economic_bins.json
+results/revision/predictions_*.csv
+results/expanded/predictions_*.csv
+results/expanded/leakage_audit_*.json
+*.log
+results/
