@@ -1,0 +1,14 @@
+{
+  "title": "Analysis code: limits of sociodemographic data for predicting postpartum readmission, with a decision-economic analysis (nuMoM2b)",
+  "upload_type": "software",
+  "description": "Code for the revised manuscript comparing conventional, ensemble and automated machine learning for 14-day postpartum readmission in the nuMoM2b cohort at equal workload, with a decision-economic analysis, post hoc state transport and a post hoc search over variables recorded before discharge. Contains code only: no data, predictions or result files. nuMoM2b data are available from NICHD DASH under a data use agreement.",
+  "creators": [
+    {"name": "Frasch, Martin G.", "affiliation": "University of Washington", "orcid": "0000-0003-3159-6321"}
+  ],
+  "license": "MIT",
+  "keywords": ["postpartum readmission", "clinical prediction", "machine learning", "AutoML", "health economics", "nuMoM2b"],
+  "related_identifiers": [
+    {"identifier": "10.1101/2025.12.16.25342440", "relation": "isSupplementTo", "scheme": "doi"},
+    {"identifier": "10.5281/zenodo.23749950", "relation": "isRelatedTo", "scheme": "doi"}
+  ]
+}
