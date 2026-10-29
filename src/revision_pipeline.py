@@ -210,7 +210,7 @@ def stage_models():
         fit_kw = {}
         if 'sample_weight' in kw:
             p_oof = np.zeros(len(ytr))
-            for a, b in CV.split(Atr, ytr):
+            for a, b in CV.split(Atr, ytr):  # split-unit:ok inner CV within training set; one row per participant (asserted in load)
                 m = clone(base).fit(Atr[a], ytr[a], sample_weight=kw['sample_weight'][a])
                 p_oof[b] = m.predict_proba(Atr[b])[:, 1]
         else:
@@ -267,7 +267,7 @@ def stage_autogluon():
     # so thresholds/recalibration use honest OOF: AutoGluon refit inside each outer training fold.
     log(f'AutoGluon honest OOF: 5 outer folds x {AUTOGLUON_OOF_S} s')
     p_oof = np.zeros(len(ytr))
-    for k, (a, b) in enumerate(CV.split(Xtr, ytr)):
+    for k, (a, b) in enumerate(CV.split(Xtr, ytr)):  # split-unit:ok inner CV within training set; one row per participant (asserted in load)
         pk = prep().fit(Xtr.iloc[a])
         m = fit_ag(pk.transform(Xtr.iloc[a]), ytr[a], AUTOGLUON_OOF_S, f'fold{k}')
         p_oof[b] = m.predict_proba(frame(pk.transform(Xtr.iloc[b])))[1].values
